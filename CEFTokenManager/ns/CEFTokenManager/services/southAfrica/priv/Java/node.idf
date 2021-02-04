@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">CEFTokenManager.services.southAfrica.priv.Java</value>
+  <value name="is_public">false</value>
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgU3RyaW5nIGdldFRpbWVJbkVwb2NoKCkgewoJbG9uZyBjdXJyZW50VGlt
+ZXN0YW1wID0gSW5zdGFudC5ub3coKS50b0Vwb2NoTWlsbGkoKTsKCXJldHVybiBTdHJpbmcudmFs
+dWVPZihjdXJyZW50VGltZXN0YW1wKTsKfQoKcHVibGljIHN0YXRpYyBTdHJpbmcgZ2V0Tm9uY2Uo
+KXsKCSBpbnQgbGVmdExpbWl0ID0gNDg7IC8vIG51bWVyYWwgJzAnCgkgICAgaW50IHJpZ2h0TGlt
+aXQgPSAxMjI7IC8vIGxldHRlciAneicKCSAgICBpbnQgdGFyZ2V0U3RyaW5nTGVuZ3RoID0gMTA7
+CgkgICAgUmFuZG9tIHJhbmRvbSA9IG5ldyBSYW5kb20oKTsKCQoJICAgIFN0cmluZyBnZW5lcmF0
+ZWRTdHJpbmcgPSByYW5kb20uaW50cyhsZWZ0TGltaXQsIHJpZ2h0TGltaXQgKyAxKQoJICAgICAg
+LmZpbHRlcihpIC0+IChpIDw9IDU3IHx8IGkgPj0gNjUpICYmIChpIDw9IDkwIHx8IGkgPj0gOTcp
+KQoJICAgICAgLmxpbWl0KHRhcmdldFN0cmluZ0xlbmd0aCkKCSAgICAgIC5jb2xsZWN0KFN0cmlu
+Z0J1aWxkZXI6Om5ldywgU3RyaW5nQnVpbGRlcjo6YXBwZW5kQ29kZVBvaW50LCBTdHJpbmdCdWls
+ZGVyOjphcHBlbmQpCgkgICAgICAudG9TdHJpbmcoKTsKCQoJCglyZXR1cm4gZ2VuZXJhdGVkU3Ry
+aW5nOwoJCgkKfQ==</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.math.BigInteger</value>
+    <value>java.security.MessageDigest</value>
+    <value>java.time.Instant</value>
+    <value>java.util.Base64</value>
+    <value>java.util.Random</value>
+  </array>
+</Values>
